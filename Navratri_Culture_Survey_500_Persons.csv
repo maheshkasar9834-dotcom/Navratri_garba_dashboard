@@ -1,0 +1,501 @@
+﻿Respondent_ID,Festival_Year,Age_Group,Region,City,Preferred_Activity,Favorite_Navratri_Day,Days_Participated,Attendance_Location,Spending_Category_INR,Estimated_Spending_INR,Celebrates_With_Family,Years_Celebrating,Cultural_Connection_Impact
+NR0001,2024,26-35,North,Jaipur,Dandiya,Day 6,9,Temple,₹0-500,263,Yes,More than 10 years,Somewhat increased
+NR0002,2026,26-35,Central,Nagpur,Devi Puja,Day 8,0,Community Ground,₹501-1500,1044,Yes,6-10 years,Strongly increased
+NR0003,2026,26-35,East,Kolkata,Devi Puja,Day 2,9,Public Event Venue,₹501-1500,1005,Yes,2-5 years,No change
+NR0004,2025,18-25,South,Bengaluru,Dandiya,Day 1,6,Housing Society,₹501-1500,1039,Yes,More than 10 years,Strongly increased
+NR0005,2025,18-25,West,Ahmedabad,Garba,Day 4,7,Community Ground,₹0-500,237,No,2-5 years,Somewhat increased
+NR0006,2024,18-25,West,Pune,Garba,Day 7,7,Housing Society,₹0-500,201,Yes,2-5 years,Strongly increased
+NR0007,2026,46+,West,Mumbai,Dandiya,Day 3,9,Home,₹501-1500,914,Yes,6-10 years,Strongly increased
+NR0008,2025,26-35,East,Kolkata,Garba,Day 3,7,Public Event Venue,Above ₹5000,6113,No,2-5 years,Somewhat increased
+NR0009,2026,18-25,South,Kochi,Dandiya,Day 5,7,Community Ground,₹501-1500,1019,Yes,First time,Somewhat increased
+NR0010,2025,26-35,South,Kochi,Garba,Day 5,1,Public Event Venue,₹1501-3000,2261,Yes,More than 10 years,No change
+NR0011,2025,46+,West,Pune,Garba,Day 3,6,Public Event Venue,₹501-1500,1065,No,6-10 years,Somewhat increased
+NR0012,2025,18-25,Central,Indore,Dandiya,Day 9,2,Public Event Venue,₹1501-3000,2093,Yes,6-10 years,No change
+NR0013,2026,26-35,East,Bhubaneswar,Garba,Day 4,8,Housing Society,₹501-1500,1003,Yes,More than 10 years,Strongly increased
+NR0014,2026,26-35,West,Surat,Dandiya,Day 3,6,Housing Society,₹501-1500,1068,Yes,6-10 years,Strongly increased
+NR0015,2025,26-35,West,Pune,Devi Puja,Day 2,8,Temple,₹1501-3000,2227,Yes,More than 10 years,Strongly increased
+NR0016,2026,Under 18,West,Nashik,Cultural Events,Day 9,1,Home,₹0-500,212,Yes,2-5 years,Strongly increased
+NR0017,2025,36-45,West,Vadodara,Garba,Day 4,1,Housing Society,₹0-500,221,Yes,6-10 years,Somewhat increased
+NR0018,2025,46+,North,Chandigarh,Garba,Day 3,8,Housing Society,₹501-1500,1099,Yes,More than 10 years,Somewhat increased
+NR0019,2024,26-35,North,Lucknow,Garba,Day 7,1,Temple,₹0-500,291,Yes,6-10 years,Strongly increased
+NR0020,2025,26-35,West,Pune,Devi Puja,Day 8,1,Home,₹0-500,285,Yes,More than 10 years,No change
+NR0021,2024,46+,South,Hyderabad,Devi Puja,Day 2,0,Public Event Venue,₹501-1500,1027,Yes,6-10 years,No change
+NR0022,2026,26-35,West,Ahmedabad,Garba,Day 7,9,Community Ground,₹3001-5000,3422,Yes,2-5 years,Strongly increased
+NR0023,2025,18-25,West,Vadodara,Fasting/Upvas,Day 5,8,Public Event Venue,₹1501-3000,2248,Yes,6-10 years,Strongly increased
+NR0024,2026,26-35,North,Jaipur,Garba,Day 5,5,Housing Society,₹1501-3000,2671,Yes,6-10 years,Strongly increased
+NR0025,2025,26-35,North,Lucknow,Dandiya,Day 3,4,Public Event Venue,₹501-1500,1074,No,More than 10 years,Strongly increased
+NR0026,2026,18-25,East,Bhubaneswar,Devi Puja,Day 5,4,Temple,Above ₹5000,5850,Yes,2-5 years,Strongly increased
+NR0027,2025,36-45,West,Vadodara,Cultural Events,Day 2,8,Temple,₹501-1500,1075,Yes,More than 10 years,Somewhat increased
+NR0028,2024,46+,North,Chandigarh,Devi Puja,Day 4,7,Public Event Venue,₹0-500,211,Yes,More than 10 years,Strongly increased
+NR0029,2025,46+,South,Bengaluru,Cultural Events,Day 6,3,Community Ground,₹1501-3000,2062,Yes,2-5 years,Strongly increased
+NR0030,2023,18-25,West,Pune,Garba,Day 1,3,Public Event Venue,₹0-500,217,No,2-5 years,Decreased
+NR0031,2026,Under 18,South,Hyderabad,Cultural Events,Day 4,1,Temple,₹501-1500,1056,Yes,More than 10 years,Somewhat increased
+NR0032,2025,46+,West,Ahmedabad,Garba,Day 6,7,Housing Society,₹1501-3000,2442,No,More than 10 years,No change
+NR0033,2026,36-45,West,Nashik,Cultural Events,Day 9,8,Temple,₹3001-5000,3926,Yes,6-10 years,Strongly increased
+NR0034,2024,18-25,Central,Indore,Dandiya,Day 2,4,Housing Society,₹1501-3000,2014,No,2-5 years,Strongly increased
+NR0035,2024,46+,Central,Bhopal,Cultural Events,Day 7,0,Temple,₹1501-3000,2244,Yes,6-10 years,Somewhat increased
+NR0036,2025,36-45,East,Ranchi,Dandiya,Day 6,1,Community Ground,Above ₹5000,5649,No,More than 10 years,Strongly increased
+NR0037,2026,26-35,West,Ahmedabad,Devi Puja,Day 2,9,Community Ground,₹0-500,226,Yes,2-5 years,Strongly increased
+NR0038,2026,26-35,West,Surat,Dandiya,Day 8,4,Community Ground,₹501-1500,1040,Yes,More than 10 years,Somewhat increased
+NR0039,2025,18-25,South,Bengaluru,Devi Puja,Day 7,8,Public Event Venue,₹501-1500,909,Yes,First time,Somewhat increased
+NR0040,2025,Under 18,North,Jaipur,Garba,Day 5,7,Public Event Venue,₹501-1500,812,Yes,First time,Strongly increased
+NR0041,2023,18-25,West,Ahmedabad,Garba,Day 5,5,Temple,₹501-1500,838,No,6-10 years,Somewhat increased
+NR0042,2026,36-45,North,Jaipur,Garba,Day 7,3,Home,Above ₹5000,4845,Yes,6-10 years,Strongly increased
+NR0043,2026,Under 18,West,Surat,Garba,Day 9,2,Temple,₹1501-3000,2316,Yes,2-5 years,Strongly increased
+NR0044,2025,18-25,Central,Nagpur,Cultural Events,Day 9,7,Housing Society,₹1501-3000,2290,No,6-10 years,Strongly increased
+NR0045,2025,18-25,West,Ahmedabad,Garba,Day 9,8,Public Event Venue,₹501-1500,1012,Yes,2-5 years,Strongly increased
+NR0046,2024,26-35,South,Bengaluru,Fasting/Upvas,Day 6,7,Public Event Venue,₹3001-5000,4282,No,2-5 years,Strongly increased
+NR0047,2026,46+,West,Ahmedabad,Garba,Day 6,6,Temple,Above ₹5000,6858,No,2-5 years,No change
+NR0048,2024,18-25,North,Jaipur,Garba,Day 3,1,Home,₹3001-5000,3715,Yes,More than 10 years,Somewhat increased
+NR0049,2026,18-25,South,Bengaluru,Devi Puja,Day 1,9,Community Ground,₹0-500,262,No,6-10 years,Somewhat increased
+NR0050,2024,36-45,West,Surat,Devi Puja,Day 7,8,Public Event Venue,₹1501-3000,1823,Yes,6-10 years,Strongly increased
+NR0051,2026,18-25,Central,Nagpur,Dandiya,Day 4,4,Community Ground,₹0-500,291,Yes,6-10 years,Strongly increased
+NR0052,2026,18-25,East,Kolkata,Dandiya,Day 1,9,Housing Society,₹501-1500,850,Yes,More than 10 years,Strongly increased
+NR0053,2026,18-25,Central,Indore,Devi Puja,Day 8,7,Housing Society,₹0-500,228,Yes,2-5 years,Strongly increased
+NR0054,2026,18-25,Central,Raipur,Garba,Day 6,7,Housing Society,₹1501-3000,2088,No,More than 10 years,Strongly increased
+NR0055,2026,18-25,South,Hyderabad,Fasting/Upvas,Day 6,8,Community Ground,₹1501-3000,1837,No,More than 10 years,Somewhat increased
+NR0056,2023,26-35,Central,Bhopal,Fasting/Upvas,Day 2,9,Public Event Venue,₹0-500,250,Yes,More than 10 years,Somewhat increased
+NR0057,2025,18-25,West,Mumbai,Devi Puja,Day 1,7,Community Ground,₹501-1500,1025,Yes,2-5 years,Somewhat increased
+NR0058,2024,46+,West,Ahmedabad,Garba,Day 2,2,Housing Society,₹501-1500,977,No,More than 10 years,Somewhat increased
+NR0059,2026,18-25,West,Pune,Devi Puja,Day 4,4,Community Ground,₹501-1500,815,Yes,First time,No change
+NR0060,2025,26-35,West,Pune,Garba,Day 2,9,Temple,₹0-500,309,Yes,6-10 years,Strongly increased
+NR0061,2026,26-35,North,Jaipur,Garba,Day 1,3,Housing Society,₹501-1500,1065,Yes,More than 10 years,Strongly increased
+NR0062,2026,Under 18,West,Surat,Garba,Day 7,5,Temple,₹3001-5000,5264,No,2-5 years,Strongly increased
+NR0063,2024,26-35,East,Kolkata,Dandiya,Day 8,5,Community Ground,₹0-500,225,Yes,More than 10 years,Somewhat increased
+NR0064,2024,18-25,West,Pune,Cultural Events,Day 6,5,Community Ground,₹0-500,278,No,First time,Decreased
+NR0065,2025,46+,West,Pune,Devi Puja,Day 4,7,Temple,₹501-1500,1093,No,More than 10 years,Strongly increased
+NR0066,2025,18-25,South,Bengaluru,Devi Puja,Day 6,9,Home,Above ₹5000,5790,Yes,6-10 years,No change
+NR0067,2024,18-25,West,Vadodara,Dandiya,Day 3,3,Public Event Venue,₹1501-3000,2630,Yes,2-5 years,No change
+NR0068,2023,Under 18,East,Bhubaneswar,Dandiya,Day 8,2,Community Ground,₹1501-3000,2140,No,2-5 years,Strongly increased
+NR0069,2026,46+,West,Surat,Dandiya,Day 2,3,Temple,₹501-1500,956,Yes,More than 10 years,Strongly increased
+NR0070,2026,26-35,Central,Indore,Fasting/Upvas,Day 5,9,Community Ground,₹1501-3000,1312,No,First time,Strongly increased
+NR0071,2025,26-35,East,Kolkata,Garba,Day 1,7,Community Ground,₹0-500,262,No,2-5 years,Decreased
+NR0072,2025,Under 18,West,Nashik,Cultural Events,Day 6,4,Housing Society,₹1501-3000,1892,Yes,2-5 years,Strongly increased
+NR0073,2023,36-45,West,Ahmedabad,Dandiya,Day 2,9,Housing Society,Above ₹5000,5603,No,More than 10 years,Somewhat increased
+NR0074,2026,18-25,East,Bhubaneswar,Dandiya,Day 4,9,Community Ground,₹1501-3000,1972,No,6-10 years,Strongly increased
+NR0075,2026,46+,South,Bengaluru,Devi Puja,Day 6,9,Community Ground,₹3001-5000,3824,No,2-5 years,Somewhat increased
+NR0076,2024,18-25,East,Patna,Dandiya,Day 8,9,Community Ground,₹1501-3000,2369,Yes,2-5 years,Somewhat increased
+NR0077,2024,18-25,East,Kolkata,Cultural Events,Day 8,4,Public Event Venue,₹0-500,250,Yes,2-5 years,Somewhat increased
+NR0078,2026,Under 18,West,Pune,Cultural Events,Day 6,8,Public Event Venue,Above ₹5000,6510,Yes,2-5 years,No change
+NR0079,2026,26-35,West,Mumbai,Dandiya,Day 4,6,Community Ground,₹0-500,287,Yes,6-10 years,No change
+NR0080,2023,26-35,West,Nashik,Garba,Day 8,9,Community Ground,₹1501-3000,2150,Yes,More than 10 years,No change
+NR0081,2026,Under 18,East,Kolkata,Devi Puja,Day 8,8,Public Event Venue,₹0-500,235,No,2-5 years,Strongly increased
+NR0082,2025,36-45,South,Bengaluru,Cultural Events,Day 1,8,Public Event Venue,₹0-500,278,Yes,6-10 years,Somewhat increased
+NR0083,2025,18-25,West,Vadodara,Garba,Day 4,7,Temple,₹501-1500,1124,Yes,6-10 years,Strongly increased
+NR0084,2026,26-35,West,Mumbai,Devi Puja,Day 4,3,Community Ground,₹501-1500,1088,Yes,More than 10 years,Strongly increased
+NR0085,2026,18-25,West,Vadodara,Devi Puja,Day 7,6,Community Ground,₹1501-3000,1992,No,More than 10 years,Somewhat increased
+NR0086,2025,18-25,West,Vadodara,Devi Puja,Day 7,9,Housing Society,₹1501-3000,2364,Yes,More than 10 years,Strongly increased
+NR0087,2026,26-35,East,Bhubaneswar,Garba,Day 8,9,Temple,₹0-500,253,Yes,2-5 years,Somewhat increased
+NR0088,2025,18-25,South,Chennai,Devi Puja,Day 5,1,Community Ground,₹0-500,281,Yes,First time,Decreased
+NR0089,2026,18-25,Central,Bhopal,Cultural Events,Day 7,2,Housing Society,₹1501-3000,2095,No,2-5 years,Strongly increased
+NR0090,2025,36-45,North,Chandigarh,Garba,Day 8,2,Community Ground,₹501-1500,800,Yes,2-5 years,Somewhat increased
+NR0091,2026,46+,West,Surat,Garba,Day 9,8,Home,₹1501-3000,2436,Yes,6-10 years,Strongly increased
+NR0092,2026,18-25,South,Chennai,Fasting/Upvas,Day 3,9,Temple,₹1501-3000,1559,No,More than 10 years,Strongly increased
+NR0093,2023,18-25,East,Ranchi,Garba,Day 3,3,Community Ground,₹3001-5000,3648,Yes,More than 10 years,Strongly increased
+NR0094,2026,26-35,South,Bengaluru,Cultural Events,Day 4,6,Housing Society,₹1501-3000,1973,No,More than 10 years,No change
+NR0095,2026,18-25,East,Bhubaneswar,Dandiya,Day 5,9,Temple,₹501-1500,876,Yes,6-10 years,No change
+NR0096,2026,Under 18,North,Lucknow,Garba,Day 1,8,Public Event Venue,₹1501-3000,2047,Yes,More than 10 years,No change
+NR0097,2024,18-25,North,Delhi,Cultural Events,Day 7,6,Housing Society,₹501-1500,1146,No,2-5 years,Decreased
+NR0098,2026,36-45,North,Jaipur,Dandiya,Day 9,7,Community Ground,₹501-1500,1098,Yes,First time,Strongly increased
+NR0099,2026,26-35,West,Nashik,Dandiya,Day 8,6,Home,₹3001-5000,3879,Yes,More than 10 years,Strongly increased
+NR0100,2025,Under 18,West,Surat,Dandiya,Day 5,4,Community Ground,₹501-1500,1136,Yes,First time,Somewhat increased
+NR0101,2026,18-25,West,Ahmedabad,Devi Puja,Day 4,7,Public Event Venue,₹3001-5000,3490,Yes,6-10 years,Somewhat increased
+NR0102,2023,18-25,South,Bengaluru,Garba,Day 7,8,Temple,₹3001-5000,3424,Yes,2-5 years,Strongly increased
+NR0103,2024,26-35,West,Pune,Dandiya,Day 5,9,Housing Society,₹3001-5000,4414,Yes,More than 10 years,Strongly increased
+NR0104,2025,Under 18,North,Delhi,Fasting/Upvas,Day 7,7,Community Ground,Above ₹5000,6417,Yes,More than 10 years,Somewhat increased
+NR0105,2025,Under 18,Central,Bhopal,Garba,Day 1,8,Temple,₹501-1500,944,Yes,2-5 years,Somewhat increased
+NR0106,2026,36-45,West,Vadodara,Devi Puja,Day 1,2,Public Event Venue,₹501-1500,863,No,More than 10 years,Strongly increased
+NR0107,2023,18-25,North,Chandigarh,Garba,Day 3,6,Public Event Venue,₹1501-3000,2644,Yes,2-5 years,Somewhat increased
+NR0108,2026,26-35,East,Patna,Devi Puja,Day 2,0,Community Ground,₹501-1500,793,Yes,6-10 years,Somewhat increased
+NR0109,2023,18-25,West,Nashik,Garba,Day 2,3,Community Ground,₹1501-3000,2088,No,More than 10 years,Somewhat increased
+NR0110,2024,Under 18,West,Mumbai,Fasting/Upvas,Day 7,8,Public Event Venue,₹1501-3000,2311,Yes,More than 10 years,Strongly increased
+NR0111,2023,18-25,West,Vadodara,Dandiya,Day 2,9,Public Event Venue,₹1501-3000,2736,Yes,More than 10 years,Somewhat increased
+NR0112,2025,36-45,West,Nashik,Garba,Day 4,1,Community Ground,₹501-1500,1045,Yes,2-5 years,Strongly increased
+NR0113,2026,36-45,Central,Bhopal,Garba,Day 2,5,Temple,₹0-500,264,Yes,More than 10 years,Strongly increased
+NR0114,2026,36-45,East,Bhubaneswar,Garba,Day 6,8,Temple,₹501-1500,931,No,More than 10 years,Somewhat increased
+NR0115,2026,18-25,South,Chennai,Dandiya,Day 8,3,Public Event Venue,₹0-500,267,No,More than 10 years,Somewhat increased
+NR0116,2023,26-35,East,Bhubaneswar,Garba,Day 4,6,Community Ground,₹3001-5000,4050,No,2-5 years,Strongly increased
+NR0117,2025,18-25,East,Patna,Cultural Events,Day 5,8,Community Ground,₹501-1500,809,Yes,More than 10 years,Somewhat increased
+NR0118,2025,18-25,West,Surat,Dandiya,Day 4,7,Home,₹0-500,273,Yes,6-10 years,Somewhat increased
+NR0119,2025,46+,Central,Nagpur,Garba,Day 3,3,Community Ground,₹0-500,279,Yes,2-5 years,Somewhat increased
+NR0120,2023,Under 18,North,Chandigarh,Devi Puja,Day 5,5,Temple,₹1501-3000,2466,Yes,6-10 years,Somewhat increased
+NR0121,2026,Under 18,East,Bhubaneswar,Devi Puja,Day 9,8,Temple,₹1501-3000,2258,No,2-5 years,Somewhat increased
+NR0122,2025,18-25,Central,Raipur,Garba,Day 8,6,Temple,₹501-1500,885,Yes,6-10 years,Somewhat increased
+NR0123,2026,Under 18,West,Ahmedabad,Garba,Day 8,0,Temple,₹0-500,180,Yes,More than 10 years,Strongly increased
+NR0124,2025,18-25,West,Nashik,Garba,Day 8,8,Housing Society,₹501-1500,1018,No,6-10 years,Strongly increased
+NR0125,2024,26-35,West,Ahmedabad,Devi Puja,Day 8,0,Community Ground,₹501-1500,1129,Yes,More than 10 years,Strongly increased
+NR0126,2026,18-25,North,Lucknow,Devi Puja,Day 7,8,Housing Society,₹1501-3000,2518,Yes,6-10 years,Somewhat increased
+NR0127,2024,46+,East,Patna,Dandiya,Day 8,3,Public Event Venue,₹1501-3000,2470,Yes,First time,Somewhat increased
+NR0128,2026,36-45,East,Ranchi,Cultural Events,Day 8,9,Home,₹501-1500,991,No,2-5 years,Strongly increased
+NR0129,2026,18-25,West,Nashik,Cultural Events,Day 8,5,Community Ground,₹501-1500,1130,Yes,6-10 years,Strongly increased
+NR0130,2024,18-25,North,Chandigarh,Devi Puja,Day 7,4,Community Ground,Above ₹5000,6665,No,2-5 years,Somewhat increased
+NR0131,2026,18-25,North,Jaipur,Cultural Events,Day 1,2,Community Ground,₹501-1500,949,Yes,2-5 years,Strongly increased
+NR0132,2025,26-35,West,Surat,Garba,Day 4,4,Temple,₹1501-3000,2432,No,6-10 years,Somewhat increased
+NR0133,2023,18-25,West,Ahmedabad,Garba,Day 4,9,Temple,₹0-500,233,No,2-5 years,Strongly increased
+NR0134,2026,26-35,West,Pune,Garba,Day 5,9,Housing Society,₹1501-3000,2395,Yes,2-5 years,Somewhat increased
+NR0135,2024,18-25,Central,Indore,Garba,Day 6,5,Community Ground,₹0-500,211,Yes,6-10 years,No change
+NR0136,2026,26-35,West,Mumbai,Dandiya,Day 4,5,Community Ground,₹1501-3000,1920,Yes,2-5 years,Strongly increased
+NR0137,2026,18-25,North,Jaipur,Fasting/Upvas,Day 2,8,Temple,Above ₹5000,6761,Yes,More than 10 years,Somewhat increased
+NR0138,2026,18-25,South,Kochi,Garba,Day 6,9,Housing Society,₹501-1500,1112,Yes,More than 10 years,Strongly increased
+NR0139,2025,46+,North,Delhi,Garba,Day 8,7,Community Ground,₹0-500,269,Yes,More than 10 years,Somewhat increased
+NR0140,2025,36-45,Central,Bhopal,Dandiya,Day 8,5,Housing Society,₹0-500,252,Yes,2-5 years,Somewhat increased
+NR0141,2026,18-25,Central,Indore,Fasting/Upvas,Day 7,5,Community Ground,₹501-1500,713,Yes,More than 10 years,Strongly increased
+NR0142,2024,36-45,West,Mumbai,Garba,Day 6,8,Public Event Venue,₹0-500,247,Yes,More than 10 years,Somewhat increased
+NR0143,2025,26-35,North,Lucknow,Dandiya,Day 2,0,Public Event Venue,₹0-500,263,Yes,More than 10 years,No change
+NR0144,2025,46+,West,Pune,Garba,Day 7,7,Community Ground,₹3001-5000,3743,Yes,2-5 years,Strongly increased
+NR0145,2023,36-45,West,Vadodara,Garba,Day 5,5,Community Ground,₹501-1500,914,No,More than 10 years,Strongly increased
+NR0146,2025,18-25,West,Nashik,Fasting/Upvas,Day 6,8,Temple,₹501-1500,1173,Yes,More than 10 years,No change
+NR0147,2026,Under 18,South,Bengaluru,Fasting/Upvas,Day 8,1,Community Ground,Above ₹5000,5956,Yes,6-10 years,Somewhat increased
+NR0148,2026,18-25,North,Jaipur,Garba,Day 8,7,Housing Society,₹0-500,263,No,More than 10 years,No change
+NR0149,2023,26-35,West,Pune,Fasting/Upvas,Day 3,6,Public Event Venue,Above ₹5000,6557,Yes,6-10 years,Somewhat increased
+NR0150,2023,26-35,West,Nashik,Devi Puja,Day 7,7,Housing Society,₹501-1500,879,No,6-10 years,No change
+NR0151,2024,18-25,Central,Nagpur,Cultural Events,Day 1,1,Public Event Venue,₹3001-5000,4092,Yes,First time,Somewhat increased
+NR0152,2026,18-25,West,Surat,Dandiya,Day 1,7,Temple,₹1501-3000,2606,Yes,More than 10 years,Somewhat increased
+NR0153,2024,36-45,West,Surat,Dandiya,Day 7,7,Community Ground,₹3001-5000,4873,Yes,2-5 years,No change
+NR0154,2026,46+,North,Chandigarh,Dandiya,Day 9,7,Home,Above ₹5000,6028,Yes,6-10 years,Somewhat increased
+NR0155,2024,26-35,Central,Nagpur,Devi Puja,Day 7,7,Temple,₹501-1500,971,Yes,2-5 years,Strongly increased
+NR0156,2026,18-25,West,Ahmedabad,Garba,Day 5,7,Housing Society,Above ₹5000,6193,Yes,6-10 years,Strongly increased
+NR0157,2025,18-25,South,Hyderabad,Garba,Day 8,8,Community Ground,₹501-1500,1029,Yes,2-5 years,Strongly increased
+NR0158,2026,Under 18,East,Patna,Garba,Day 2,4,Community Ground,₹501-1500,1166,Yes,More than 10 years,Strongly increased
+NR0159,2024,46+,West,Surat,Devi Puja,Day 9,9,Public Event Venue,₹501-1500,880,Yes,More than 10 years,Strongly increased
+NR0160,2026,Under 18,East,Bhubaneswar,Garba,Day 6,6,Community Ground,₹1501-3000,2174,Yes,2-5 years,Somewhat increased
+NR0161,2024,26-35,North,Lucknow,Devi Puja,Day 9,1,Public Event Venue,₹0-500,216,Yes,2-5 years,Somewhat increased
+NR0162,2026,18-25,South,Kochi,Fasting/Upvas,Day 2,1,Public Event Venue,₹1501-3000,1976,Yes,2-5 years,Somewhat increased
+NR0163,2026,26-35,South,Kochi,Garba,Day 3,4,Home,₹1501-3000,2351,No,More than 10 years,Somewhat increased
+NR0164,2024,26-35,North,Lucknow,Devi Puja,Day 8,8,Housing Society,₹3001-5000,4388,Yes,6-10 years,Strongly increased
+NR0165,2026,36-45,West,Mumbai,Dandiya,Day 1,8,Housing Society,₹3001-5000,3688,No,6-10 years,Strongly increased
+NR0166,2025,18-25,East,Ranchi,Cultural Events,Day 7,8,Public Event Venue,₹501-1500,1092,No,2-5 years,Strongly increased
+NR0167,2024,Under 18,West,Ahmedabad,Garba,Day 7,6,Community Ground,₹501-1500,1133,Yes,More than 10 years,Somewhat increased
+NR0168,2025,18-25,West,Surat,Devi Puja,Day 1,5,Temple,₹501-1500,1232,Yes,More than 10 years,Strongly increased
+NR0169,2024,46+,West,Surat,Cultural Events,Day 9,2,Housing Society,₹501-1500,1008,Yes,More than 10 years,Strongly increased
+NR0170,2026,36-45,South,Hyderabad,Fasting/Upvas,Day 8,4,Temple,₹0-500,230,Yes,More than 10 years,Strongly increased
+NR0171,2026,26-35,South,Bengaluru,Devi Puja,Day 4,5,Temple,₹501-1500,879,Yes,First time,No change
+NR0172,2024,26-35,West,Vadodara,Dandiya,Day 5,1,Temple,₹501-1500,867,Yes,2-5 years,Strongly increased
+NR0173,2025,26-35,North,Delhi,Devi Puja,Day 2,3,Housing Society,Above ₹5000,6899,Yes,First time,Somewhat increased
+NR0174,2026,18-25,West,Vadodara,Cultural Events,Day 9,7,Public Event Venue,₹1501-3000,1840,Yes,2-5 years,Somewhat increased
+NR0175,2026,46+,South,Hyderabad,Dandiya,Day 6,8,Community Ground,₹501-1500,1146,Yes,2-5 years,Somewhat increased
+NR0176,2025,18-25,West,Surat,Garba,Day 3,9,Public Event Venue,₹1501-3000,2015,Yes,2-5 years,No change
+NR0177,2026,18-25,South,Bengaluru,Fasting/Upvas,Day 7,9,Housing Society,₹0-500,229,No,6-10 years,Strongly increased
+NR0178,2025,26-35,North,Delhi,Devi Puja,Day 9,7,Public Event Venue,₹501-1500,981,Yes,More than 10 years,Strongly increased
+NR0179,2025,Under 18,Central,Bhopal,Devi Puja,Day 3,5,Housing Society,₹1501-3000,2060,Yes,More than 10 years,No change
+NR0180,2026,18-25,West,Mumbai,Garba,Day 2,7,Home,₹1501-3000,2501,Yes,More than 10 years,Somewhat increased
+NR0181,2025,36-45,West,Vadodara,Devi Puja,Day 7,8,Community Ground,₹501-1500,1217,Yes,More than 10 years,Somewhat increased
+NR0182,2025,Under 18,West,Pune,Dandiya,Day 7,2,Public Event Venue,Above ₹5000,5526,Yes,2-5 years,Somewhat increased
+NR0183,2025,26-35,Central,Bhopal,Devi Puja,Day 4,5,Community Ground,₹3001-5000,3792,Yes,More than 10 years,Somewhat increased
+NR0184,2026,18-25,East,Kolkata,Garba,Day 9,9,Public Event Venue,₹1501-3000,2205,Yes,2-5 years,No change
+NR0185,2026,18-25,West,Nashik,Devi Puja,Day 8,5,Public Event Venue,₹1501-3000,2396,Yes,More than 10 years,Decreased
+NR0186,2025,18-25,South,Bengaluru,Fasting/Upvas,Day 1,7,Community Ground,₹1501-3000,2208,No,2-5 years,Somewhat increased
+NR0187,2025,18-25,East,Kolkata,Garba,Day 1,7,Community Ground,₹501-1500,1166,No,More than 10 years,Strongly increased
+NR0188,2025,36-45,South,Bengaluru,Fasting/Upvas,Day 5,3,Home,₹501-1500,1137,Yes,2-5 years,No change
+NR0189,2025,18-25,North,Lucknow,Dandiya,Day 6,5,Community Ground,₹0-500,214,Yes,2-5 years,Strongly increased
+NR0190,2024,26-35,West,Vadodara,Cultural Events,Day 3,4,Public Event Venue,₹501-1500,1062,No,More than 10 years,Strongly increased
+NR0191,2026,26-35,West,Nashik,Devi Puja,Day 9,0,Community Ground,₹1501-3000,2660,Yes,First time,No change
+NR0192,2025,26-35,Central,Bhopal,Dandiya,Day 6,0,Community Ground,₹501-1500,940,Yes,More than 10 years,Strongly increased
+NR0193,2025,46+,Central,Indore,Devi Puja,Day 4,9,Public Event Venue,Above ₹5000,5788,Yes,More than 10 years,Strongly increased
+NR0194,2024,36-45,South,Chennai,Cultural Events,Day 7,4,Housing Society,Above ₹5000,5619,No,More than 10 years,Strongly increased
+NR0195,2024,18-25,West,Vadodara,Dandiya,Day 8,6,Public Event Venue,₹1501-3000,2113,Yes,More than 10 years,No change
+NR0196,2026,Under 18,West,Pune,Garba,Day 9,4,Temple,₹1501-3000,1799,Yes,More than 10 years,Somewhat increased
+NR0197,2025,18-25,East,Patna,Devi Puja,Day 6,9,Housing Society,₹3001-5000,3362,No,First time,Somewhat increased
+NR0198,2024,26-35,Central,Indore,Cultural Events,Day 6,4,Housing Society,₹0-500,252,Yes,More than 10 years,Strongly increased
+NR0199,2025,Under 18,Central,Bhopal,Devi Puja,Day 8,5,Housing Society,₹3001-5000,4726,Yes,More than 10 years,Somewhat increased
+NR0200,2025,26-35,East,Kolkata,Devi Puja,Day 5,9,Housing Society,₹0-500,231,No,More than 10 years,Somewhat increased
+NR0201,2023,26-35,South,Hyderabad,Dandiya,Day 3,9,Housing Society,₹3001-5000,3691,Yes,2-5 years,Strongly increased
+NR0202,2025,18-25,West,Ahmedabad,Cultural Events,Day 3,3,Temple,₹501-1500,1204,Yes,More than 10 years,Strongly increased
+NR0203,2025,36-45,West,Nashik,Garba,Day 6,8,Community Ground,₹3001-5000,3468,Yes,More than 10 years,Strongly increased
+NR0204,2025,Under 18,Central,Nagpur,Dandiya,Day 2,6,Home,Above ₹5000,4803,Yes,More than 10 years,Decreased
+NR0205,2025,Under 18,South,Kochi,Garba,Day 6,6,Community Ground,₹0-500,225,Yes,6-10 years,Somewhat increased
+NR0206,2025,36-45,West,Nashik,Garba,Day 6,2,Housing Society,₹501-1500,920,Yes,First time,No change
+NR0207,2026,26-35,West,Surat,Dandiya,Day 8,1,Community Ground,Above ₹5000,4741,Yes,6-10 years,Strongly increased
+NR0208,2025,26-35,South,Hyderabad,Dandiya,Day 7,8,Housing Society,₹1501-3000,2215,No,More than 10 years,Somewhat increased
+NR0209,2024,18-25,West,Pune,Devi Puja,Day 8,6,Home,₹3001-5000,4455,Yes,More than 10 years,Somewhat increased
+NR0210,2024,18-25,West,Ahmedabad,Dandiya,Day 9,5,Community Ground,₹1501-3000,1902,Yes,6-10 years,Somewhat increased
+NR0211,2025,36-45,South,Chennai,Dandiya,Day 6,8,Community Ground,₹501-1500,1010,Yes,First time,No change
+NR0212,2026,36-45,South,Kochi,Garba,Day 3,8,Community Ground,₹501-1500,1047,No,6-10 years,Strongly increased
+NR0213,2024,26-35,South,Bengaluru,Dandiya,Day 3,2,Housing Society,₹501-1500,989,Yes,6-10 years,Strongly increased
+NR0214,2026,18-25,West,Ahmedabad,Garba,Day 1,7,Public Event Venue,₹3001-5000,4089,Yes,More than 10 years,Somewhat increased
+NR0215,2023,26-35,South,Hyderabad,Garba,Day 5,2,Community Ground,₹501-1500,1023,Yes,More than 10 years,Somewhat increased
+NR0216,2025,18-25,West,Pune,Devi Puja,Day 4,8,Home,₹1501-3000,2030,Yes,2-5 years,Somewhat increased
+NR0217,2026,Under 18,West,Mumbai,Devi Puja,Day 9,7,Temple,₹1501-3000,2654,Yes,6-10 years,Strongly increased
+NR0218,2025,46+,East,Patna,Devi Puja,Day 9,9,Temple,₹1501-3000,2586,No,First time,Somewhat increased
+NR0219,2025,18-25,South,Hyderabad,Dandiya,Day 5,1,Public Event Venue,₹3001-5000,4571,Yes,More than 10 years,Strongly increased
+NR0220,2024,46+,East,Patna,Dandiya,Day 4,1,Temple,Above ₹5000,6729,Yes,6-10 years,Somewhat increased
+NR0221,2026,18-25,South,Kochi,Cultural Events,Day 7,4,Temple,₹501-1500,811,Yes,6-10 years,Somewhat increased
+NR0222,2023,18-25,South,Chennai,Dandiya,Day 6,4,Community Ground,₹3001-5000,4444,No,6-10 years,Somewhat increased
+NR0223,2026,26-35,West,Nashik,Dandiya,Day 4,3,Community Ground,₹3001-5000,4314,Yes,More than 10 years,Strongly increased
+NR0224,2024,36-45,North,Jaipur,Garba,Day 2,9,Community Ground,₹1501-3000,1835,Yes,More than 10 years,Strongly increased
+NR0225,2026,36-45,West,Mumbai,Dandiya,Day 1,3,Community Ground,Above ₹5000,5845,Yes,More than 10 years,Strongly increased
+NR0226,2025,36-45,West,Nashik,Dandiya,Day 4,4,Housing Society,₹501-1500,1033,Yes,2-5 years,Strongly increased
+NR0227,2026,26-35,Central,Raipur,Dandiya,Day 4,8,Temple,₹0-500,299,Yes,2-5 years,Somewhat increased
+NR0228,2025,26-35,North,Jaipur,Devi Puja,Day 1,5,Housing Society,₹3001-5000,4347,Yes,2-5 years,No change
+NR0229,2026,36-45,Central,Indore,Dandiya,Day 6,8,Community Ground,₹501-1500,896,Yes,More than 10 years,Strongly increased
+NR0230,2024,18-25,South,Chennai,Devi Puja,Day 4,1,Community Ground,₹3001-5000,4813,Yes,First time,Somewhat increased
+NR0231,2024,26-35,East,Bhubaneswar,Devi Puja,Day 1,6,Housing Society,₹3001-5000,4021,Yes,6-10 years,No change
+NR0232,2025,18-25,North,Chandigarh,Cultural Events,Day 1,0,Public Event Venue,₹0-500,242,Yes,More than 10 years,No change
+NR0233,2023,46+,South,Kochi,Devi Puja,Day 1,1,Community Ground,₹3001-5000,3842,Yes,More than 10 years,Strongly increased
+NR0234,2024,46+,North,Chandigarh,Fasting/Upvas,Day 8,9,Public Event Venue,₹501-1500,805,No,6-10 years,No change
+NR0235,2026,Under 18,West,Surat,Garba,Day 8,2,Housing Society,₹1501-3000,2220,No,6-10 years,Strongly increased
+NR0236,2026,26-35,East,Patna,Garba,Day 2,6,Housing Society,₹1501-3000,2384,No,First time,Strongly increased
+NR0237,2025,46+,West,Nashik,Garba,Day 7,5,Housing Society,Above ₹5000,5722,No,More than 10 years,Strongly increased
+NR0238,2026,18-25,West,Surat,Devi Puja,Day 8,4,Community Ground,₹0-500,262,Yes,More than 10 years,Somewhat increased
+NR0239,2025,26-35,South,Hyderabad,Cultural Events,Day 8,9,Community Ground,₹501-1500,896,Yes,2-5 years,Strongly increased
+NR0240,2024,46+,West,Mumbai,Garba,Day 7,0,Housing Society,₹1501-3000,2211,Yes,6-10 years,Strongly increased
+NR0241,2026,Under 18,Central,Indore,Fasting/Upvas,Day 5,7,Temple,₹1501-3000,2335,Yes,More than 10 years,Strongly increased
+NR0242,2026,26-35,Central,Bhopal,Garba,Day 1,9,Public Event Venue,₹1501-3000,2301,Yes,More than 10 years,No change
+NR0243,2026,18-25,Central,Bhopal,Fasting/Upvas,Day 9,7,Temple,₹0-500,201,Yes,2-5 years,No change
+NR0244,2024,46+,North,Jaipur,Dandiya,Day 7,9,Community Ground,₹501-1500,947,No,6-10 years,Strongly increased
+NR0245,2026,46+,West,Surat,Garba,Day 2,1,Home,₹501-1500,1201,Yes,2-5 years,No change
+NR0246,2023,46+,Central,Nagpur,Dandiya,Day 6,5,Community Ground,₹3001-5000,3763,Yes,2-5 years,No change
+NR0247,2024,26-35,North,Chandigarh,Garba,Day 2,4,Housing Society,₹501-1500,1001,No,More than 10 years,Somewhat increased
+NR0248,2023,36-45,Central,Raipur,Garba,Day 1,8,Housing Society,₹501-1500,989,Yes,More than 10 years,Strongly increased
+NR0249,2026,36-45,Central,Indore,Garba,Day 7,9,Public Event Venue,Above ₹5000,7129,Yes,More than 10 years,Somewhat increased
+NR0250,2026,18-25,East,Patna,Cultural Events,Day 2,4,Home,₹0-500,288,No,First time,No change
+NR0251,2026,36-45,West,Pune,Dandiya,Day 2,7,Housing Society,Above ₹5000,6581,Yes,More than 10 years,Somewhat increased
+NR0252,2025,Under 18,North,Lucknow,Garba,Day 5,3,Housing Society,₹1501-3000,1987,Yes,6-10 years,Strongly increased
+NR0253,2025,26-35,East,Bhubaneswar,Devi Puja,Day 5,7,Public Event Venue,₹3001-5000,4172,Yes,2-5 years,Somewhat increased
+NR0254,2024,18-25,West,Ahmedabad,Devi Puja,Day 7,6,Community Ground,₹501-1500,1068,Yes,6-10 years,Somewhat increased
+NR0255,2025,18-25,West,Ahmedabad,Garba,Day 1,9,Community Ground,₹0-500,229,No,2-5 years,Somewhat increased
+NR0256,2025,Under 18,South,Hyderabad,Dandiya,Day 8,7,Community Ground,₹3001-5000,3582,Yes,More than 10 years,Strongly increased
+NR0257,2026,26-35,Central,Bhopal,Garba,Day 3,4,Community Ground,₹3001-5000,4818,Yes,6-10 years,Strongly increased
+NR0258,2025,18-25,South,Chennai,Garba,Day 4,2,Housing Society,₹3001-5000,3855,Yes,2-5 years,No change
+NR0259,2023,36-45,South,Chennai,Devi Puja,Day 9,2,Housing Society,₹0-500,298,Yes,2-5 years,No change
+NR0260,2023,Under 18,West,Mumbai,Garba,Day 4,3,Housing Society,₹3001-5000,4478,No,2-5 years,Strongly increased
+NR0261,2024,18-25,South,Bengaluru,Dandiya,Day 5,4,Community Ground,₹3001-5000,4195,Yes,First time,No change
+NR0262,2025,26-35,Central,Indore,Devi Puja,Day 7,9,Home,₹1501-3000,2372,Yes,6-10 years,Strongly increased
+NR0263,2026,36-45,West,Pune,Garba,Day 4,7,Temple,₹3001-5000,3327,Yes,More than 10 years,Somewhat increased
+NR0264,2026,18-25,North,Lucknow,Dandiya,Day 1,6,Housing Society,₹3001-5000,4099,Yes,First time,Somewhat increased
+NR0265,2026,26-35,East,Kolkata,Garba,Day 9,2,Housing Society,₹1501-3000,2632,No,First time,No change
+NR0266,2025,46+,East,Ranchi,Fasting/Upvas,Day 4,9,Temple,₹0-500,270,Yes,6-10 years,No change
+NR0267,2025,26-35,South,Chennai,Dandiya,Day 9,8,Community Ground,₹1501-3000,2291,Yes,More than 10 years,Strongly increased
+NR0268,2024,18-25,South,Hyderabad,Cultural Events,Day 6,1,Community Ground,₹0-500,301,Yes,2-5 years,No change
+NR0269,2026,Under 18,West,Ahmedabad,Dandiya,Day 1,8,Public Event Venue,₹501-1500,977,No,2-5 years,Strongly increased
+NR0270,2026,36-45,West,Pune,Garba,Day 3,6,Public Event Venue,₹501-1500,925,Yes,6-10 years,Somewhat increased
+NR0271,2024,Under 18,East,Bhubaneswar,Devi Puja,Day 2,1,Housing Society,₹0-500,254,No,2-5 years,Somewhat increased
+NR0272,2025,36-45,East,Patna,Fasting/Upvas,Day 9,6,Community Ground,₹501-1500,1091,Yes,First time,Somewhat increased
+NR0273,2025,26-35,East,Ranchi,Devi Puja,Day 1,6,Temple,₹0-500,198,No,More than 10 years,Strongly increased
+NR0274,2026,46+,Central,Nagpur,Cultural Events,Day 9,2,Home,₹3001-5000,4136,Yes,More than 10 years,No change
+NR0275,2026,36-45,North,Jaipur,Cultural Events,Day 9,9,Home,Above ₹5000,6583,Yes,6-10 years,Strongly increased
+NR0276,2025,46+,North,Jaipur,Garba,Day 8,9,Community Ground,₹0-500,241,Yes,More than 10 years,Strongly increased
+NR0277,2025,18-25,East,Patna,Garba,Day 8,7,Community Ground,Above ₹5000,6797,Yes,More than 10 years,Somewhat increased
+NR0278,2023,36-45,South,Kochi,Devi Puja,Day 1,6,Home,₹1501-3000,2423,No,2-5 years,Somewhat increased
+NR0279,2023,18-25,South,Kochi,Dandiya,Day 8,5,Temple,₹501-1500,1256,No,6-10 years,No change
+NR0280,2024,26-35,East,Kolkata,Cultural Events,Day 3,7,Community Ground,₹0-500,227,Yes,2-5 years,Strongly increased
+NR0281,2023,26-35,Central,Raipur,Cultural Events,Day 7,6,Community Ground,₹1501-3000,2474,Yes,2-5 years,Strongly increased
+NR0282,2026,36-45,West,Surat,Dandiya,Day 1,1,Housing Society,₹3001-5000,3511,Yes,More than 10 years,No change
+NR0283,2026,46+,North,Jaipur,Garba,Day 1,6,Public Event Venue,₹1501-3000,1813,No,More than 10 years,Somewhat increased
+NR0284,2024,36-45,West,Ahmedabad,Devi Puja,Day 5,8,Public Event Venue,₹0-500,188,Yes,More than 10 years,Strongly increased
+NR0285,2026,18-25,South,Bengaluru,Garba,Day 5,6,Housing Society,₹0-500,266,Yes,More than 10 years,Somewhat increased
+NR0286,2024,18-25,West,Nashik,Cultural Events,Day 8,1,Housing Society,₹501-1500,1022,Yes,2-5 years,Somewhat increased
+NR0287,2025,36-45,North,Lucknow,Dandiya,Day 7,8,Community Ground,₹501-1500,942,Yes,2-5 years,Somewhat increased
+NR0288,2024,18-25,South,Chennai,Devi Puja,Day 8,3,Housing Society,₹501-1500,787,Yes,More than 10 years,Somewhat increased
+NR0289,2025,Under 18,West,Vadodara,Garba,Day 6,4,Temple,₹501-1500,917,Yes,6-10 years,No change
+NR0290,2024,18-25,South,Hyderabad,Devi Puja,Day 6,2,Housing Society,₹3001-5000,4001,Yes,More than 10 years,No change
+NR0291,2025,18-25,West,Surat,Dandiya,Day 2,4,Temple,Above ₹5000,6571,No,More than 10 years,Somewhat increased
+NR0292,2025,18-25,West,Pune,Devi Puja,Day 6,8,Community Ground,₹501-1500,998,Yes,More than 10 years,Strongly increased
+NR0293,2026,18-25,East,Bhubaneswar,Garba,Day 5,6,Community Ground,Above ₹5000,6181,Yes,More than 10 years,No change
+NR0294,2023,Under 18,North,Delhi,Devi Puja,Day 3,3,Temple,₹501-1500,954,Yes,First time,Somewhat increased
+NR0295,2024,Under 18,West,Ahmedabad,Cultural Events,Day 6,9,Community Ground,₹501-1500,1209,No,More than 10 years,Somewhat increased
+NR0296,2023,46+,North,Delhi,Garba,Day 8,9,Community Ground,₹501-1500,877,Yes,More than 10 years,Strongly increased
+NR0297,2026,18-25,East,Kolkata,Garba,Day 9,9,Public Event Venue,₹1501-3000,2061,Yes,2-5 years,No change
+NR0298,2023,18-25,West,Nashik,Garba,Day 1,3,Temple,Above ₹5000,5645,Yes,More than 10 years,Somewhat increased
+NR0299,2026,26-35,South,Bengaluru,Devi Puja,Day 3,6,Housing Society,₹1501-3000,2396,Yes,2-5 years,Strongly increased
+NR0300,2025,18-25,West,Nashik,Devi Puja,Day 3,9,Public Event Venue,₹501-1500,875,Yes,More than 10 years,Strongly increased
+NR0301,2025,46+,West,Nashik,Dandiya,Day 8,8,Public Event Venue,₹1501-3000,2286,No,First time,No change
+NR0302,2025,36-45,North,Chandigarh,Garba,Day 1,0,Housing Society,₹0-500,254,No,6-10 years,Strongly increased
+NR0303,2024,Under 18,South,Kochi,Dandiya,Day 5,1,Public Event Venue,₹3001-5000,3666,Yes,2-5 years,No change
+NR0304,2024,18-25,South,Kochi,Devi Puja,Day 3,6,Temple,₹1501-3000,2339,Yes,More than 10 years,Somewhat increased
+NR0305,2025,36-45,East,Bhubaneswar,Dandiya,Day 2,9,Temple,₹501-1500,879,No,2-5 years,Somewhat increased
+NR0306,2025,46+,Central,Nagpur,Fasting/Upvas,Day 8,6,Temple,₹1501-3000,1948,Yes,2-5 years,Strongly increased
+NR0307,2024,26-35,North,Jaipur,Garba,Day 3,6,Housing Society,₹1501-3000,2276,No,6-10 years,Strongly increased
+NR0308,2024,26-35,West,Nashik,Devi Puja,Day 7,2,Housing Society,₹0-500,200,Yes,More than 10 years,No change
+NR0309,2026,18-25,East,Bhubaneswar,Dandiya,Day 1,7,Temple,₹1501-3000,1670,No,2-5 years,Strongly increased
+NR0310,2023,46+,West,Ahmedabad,Dandiya,Day 6,9,Community Ground,₹501-1500,1063,No,2-5 years,Somewhat increased
+NR0311,2026,18-25,North,Chandigarh,Devi Puja,Day 3,5,Housing Society,₹1501-3000,2533,No,More than 10 years,Strongly increased
+NR0312,2026,46+,West,Surat,Devi Puja,Day 8,8,Community Ground,₹3001-5000,3775,Yes,6-10 years,Strongly increased
+NR0313,2025,26-35,West,Surat,Fasting/Upvas,Day 6,9,Housing Society,₹3001-5000,3679,Yes,More than 10 years,Strongly increased
+NR0314,2024,26-35,Central,Nagpur,Garba,Day 2,3,Housing Society,₹1501-3000,2521,No,2-5 years,Somewhat increased
+NR0315,2024,26-35,East,Ranchi,Garba,Day 6,6,Home,₹1501-3000,1940,Yes,More than 10 years,Decreased
+NR0316,2026,18-25,South,Bengaluru,Devi Puja,Day 7,4,Home,₹0-500,209,Yes,2-5 years,Strongly increased
+NR0317,2026,18-25,North,Lucknow,Dandiya,Day 5,8,Public Event Venue,₹3001-5000,4339,Yes,2-5 years,Strongly increased
+NR0318,2026,18-25,West,Nashik,Garba,Day 3,7,Temple,₹501-1500,1001,No,More than 10 years,Strongly increased
+NR0319,2026,18-25,West,Vadodara,Garba,Day 4,7,Home,₹1501-3000,2537,No,6-10 years,Somewhat increased
+NR0320,2026,36-45,West,Mumbai,Garba,Day 4,8,Housing Society,₹501-1500,743,Yes,More than 10 years,Somewhat increased
+NR0321,2024,18-25,South,Kochi,Cultural Events,Day 6,5,Community Ground,₹0-500,207,No,2-5 years,No change
+NR0322,2024,Under 18,South,Hyderabad,Garba,Day 1,9,Community Ground,₹1501-3000,2253,No,6-10 years,Somewhat increased
+NR0323,2026,46+,South,Kochi,Garba,Day 4,6,Community Ground,₹0-500,262,Yes,6-10 years,Somewhat increased
+NR0324,2024,46+,West,Nashik,Garba,Day 4,2,Temple,₹3001-5000,4406,Yes,More than 10 years,Strongly increased
+NR0325,2023,46+,Central,Bhopal,Dandiya,Day 1,8,Housing Society,₹501-1500,1020,Yes,2-5 years,Decreased
+NR0326,2026,46+,East,Kolkata,Garba,Day 9,8,Public Event Venue,₹0-500,254,Yes,2-5 years,Strongly increased
+NR0327,2025,18-25,South,Chennai,Dandiya,Day 4,4,Community Ground,₹1501-3000,2144,No,6-10 years,Strongly increased
+NR0328,2026,18-25,South,Kochi,Garba,Day 7,9,Community Ground,₹0-500,297,Yes,6-10 years,Somewhat increased
+NR0329,2026,36-45,North,Jaipur,Cultural Events,Day 3,9,Public Event Venue,₹501-1500,867,Yes,2-5 years,Somewhat increased
+NR0330,2023,26-35,West,Surat,Garba,Day 3,4,Community Ground,₹1501-3000,2346,No,More than 10 years,Strongly increased
+NR0331,2026,18-25,West,Nashik,Dandiya,Day 8,9,Temple,₹0-500,220,Yes,2-5 years,Somewhat increased
+NR0332,2024,36-45,East,Kolkata,Cultural Events,Day 8,2,Housing Society,₹3001-5000,4256,No,More than 10 years,Somewhat increased
+NR0333,2025,18-25,West,Vadodara,Devi Puja,Day 1,3,Housing Society,₹0-500,218,Yes,2-5 years,Strongly increased
+NR0334,2025,18-25,West,Surat,Dandiya,Day 2,3,Community Ground,₹501-1500,1089,No,More than 10 years,No change
+NR0335,2023,26-35,West,Vadodara,Garba,Day 8,9,Community Ground,₹3001-5000,4053,Yes,More than 10 years,Somewhat increased
+NR0336,2025,26-35,West,Surat,Garba,Day 1,7,Community Ground,₹501-1500,1209,No,2-5 years,Strongly increased
+NR0337,2024,26-35,East,Kolkata,Devi Puja,Day 8,2,Housing Society,₹0-500,241,Yes,More than 10 years,Somewhat increased
+NR0338,2025,Under 18,South,Kochi,Fasting/Upvas,Day 8,5,Housing Society,₹501-1500,1050,Yes,6-10 years,Strongly increased
+NR0339,2025,36-45,North,Delhi,Devi Puja,Day 2,7,Community Ground,₹501-1500,906,No,More than 10 years,Somewhat increased
+NR0340,2026,18-25,West,Nashik,Dandiya,Day 4,1,Housing Society,₹3001-5000,3861,Yes,More than 10 years,Somewhat increased
+NR0341,2026,18-25,North,Jaipur,Devi Puja,Day 6,9,Public Event Venue,₹501-1500,1012,Yes,2-5 years,Strongly increased
+NR0342,2024,46+,North,Jaipur,Dandiya,Day 9,8,Community Ground,₹3001-5000,3266,Yes,2-5 years,Somewhat increased
+NR0343,2025,46+,West,Mumbai,Garba,Day 8,6,Temple,₹3001-5000,3319,No,2-5 years,Decreased
+NR0344,2025,36-45,North,Chandigarh,Dandiya,Day 8,9,Housing Society,₹501-1500,1071,Yes,2-5 years,Somewhat increased
+NR0345,2024,36-45,North,Lucknow,Fasting/Upvas,Day 7,5,Community Ground,Above ₹5000,5894,Yes,2-5 years,No change
+NR0346,2026,26-35,South,Bengaluru,Garba,Day 9,9,Temple,₹501-1500,928,Yes,2-5 years,Strongly increased
+NR0347,2026,26-35,South,Kochi,Devi Puja,Day 2,7,Housing Society,Above ₹5000,5469,Yes,6-10 years,Strongly increased
+NR0348,2024,Under 18,West,Ahmedabad,Garba,Day 3,7,Public Event Venue,₹0-500,229,Yes,More than 10 years,Strongly increased
+NR0349,2025,18-25,North,Lucknow,Dandiya,Day 8,2,Public Event Venue,₹1501-3000,2280,Yes,2-5 years,Strongly increased
+NR0350,2024,18-25,South,Hyderabad,Garba,Day 6,9,Housing Society,₹1501-3000,2370,Yes,2-5 years,Strongly increased
+NR0351,2026,18-25,North,Delhi,Dandiya,Day 9,5,Home,₹501-1500,748,Yes,More than 10 years,Strongly increased
+NR0352,2024,36-45,East,Bhubaneswar,Devi Puja,Day 4,2,Temple,₹1501-3000,2631,Yes,2-5 years,No change
+NR0353,2026,26-35,South,Chennai,Dandiya,Day 8,0,Housing Society,₹1501-3000,2612,No,2-5 years,No change
+NR0354,2026,Under 18,West,Nashik,Devi Puja,Day 3,6,Temple,₹0-500,180,Yes,2-5 years,Somewhat increased
+NR0355,2025,18-25,West,Pune,Devi Puja,Day 3,6,Community Ground,₹0-500,282,Yes,More than 10 years,Strongly increased
+NR0356,2025,26-35,South,Chennai,Fasting/Upvas,Day 8,8,Home,₹1501-3000,2534,Yes,More than 10 years,Strongly increased
+NR0357,2026,Under 18,West,Surat,Garba,Day 5,9,Housing Society,₹1501-3000,2250,Yes,6-10 years,Strongly increased
+NR0358,2025,36-45,South,Hyderabad,Dandiya,Day 3,1,Temple,Above ₹5000,5066,Yes,More than 10 years,Somewhat increased
+NR0359,2024,26-35,Central,Raipur,Garba,Day 1,8,Public Event Venue,₹3001-5000,4487,Yes,6-10 years,No change
+NR0360,2025,26-35,South,Bengaluru,Fasting/Upvas,Day 3,3,Community Ground,Above ₹5000,5826,Yes,More than 10 years,Somewhat increased
+NR0361,2026,26-35,North,Chandigarh,Fasting/Upvas,Day 9,9,Temple,₹1501-3000,2398,Yes,More than 10 years,Strongly increased
+NR0362,2026,36-45,South,Hyderabad,Dandiya,Day 5,9,Community Ground,₹501-1500,1266,Yes,More than 10 years,Somewhat increased
+NR0363,2026,18-25,North,Delhi,Cultural Events,Day 2,6,Home,₹0-500,257,Yes,2-5 years,Strongly increased
+NR0364,2026,26-35,South,Chennai,Dandiya,Day 7,8,Home,₹3001-5000,3559,Yes,First time,Strongly increased
+NR0365,2026,26-35,Central,Bhopal,Devi Puja,Day 2,4,Temple,₹1501-3000,2159,Yes,6-10 years,Somewhat increased
+NR0366,2026,18-25,North,Lucknow,Garba,Day 4,6,Housing Society,₹0-500,226,No,More than 10 years,Somewhat increased
+NR0367,2023,36-45,Central,Bhopal,Devi Puja,Day 7,9,Temple,₹501-1500,1052,Yes,6-10 years,Strongly increased
+NR0368,2025,36-45,Central,Indore,Garba,Day 4,6,Home,Above ₹5000,5419,Yes,More than 10 years,Strongly increased
+NR0369,2026,26-35,West,Vadodara,Cultural Events,Day 7,5,Temple,₹1501-3000,2122,No,More than 10 years,Decreased
+NR0370,2026,36-45,West,Mumbai,Devi Puja,Day 7,6,Temple,₹501-1500,845,Yes,2-5 years,Strongly increased
+NR0371,2026,36-45,West,Vadodara,Devi Puja,Day 1,9,Public Event Venue,₹501-1500,984,Yes,More than 10 years,Strongly increased
+NR0372,2024,26-35,West,Pune,Garba,Day 6,4,Community Ground,₹501-1500,1021,No,More than 10 years,Strongly increased
+NR0373,2026,36-45,West,Vadodara,Garba,Day 9,3,Community Ground,₹501-1500,677,No,More than 10 years,Strongly increased
+NR0374,2026,26-35,South,Kochi,Garba,Day 2,8,Housing Society,₹501-1500,1031,Yes,More than 10 years,Strongly increased
+NR0375,2023,26-35,West,Ahmedabad,Dandiya,Day 3,9,Public Event Venue,₹0-500,248,Yes,More than 10 years,No change
+NR0376,2025,26-35,West,Pune,Garba,Day 5,2,Temple,₹3001-5000,3632,Yes,2-5 years,Strongly increased
+NR0377,2024,36-45,East,Kolkata,Fasting/Upvas,Day 9,3,Community Ground,₹501-1500,1243,No,More than 10 years,Somewhat increased
+NR0378,2025,18-25,West,Ahmedabad,Dandiya,Day 4,2,Temple,₹3001-5000,4460,Yes,2-5 years,Somewhat increased
+NR0379,2023,46+,East,Kolkata,Garba,Day 1,4,Housing Society,₹3001-5000,3473,Yes,More than 10 years,Somewhat increased
+NR0380,2025,36-45,West,Surat,Dandiya,Day 4,6,Community Ground,₹501-1500,1100,No,More than 10 years,No change
+NR0381,2025,Under 18,West,Nashik,Dandiya,Day 6,8,Housing Society,₹1501-3000,2586,Yes,6-10 years,No change
+NR0382,2026,36-45,South,Hyderabad,Devi Puja,Day 5,7,Public Event Venue,₹501-1500,1015,Yes,More than 10 years,Strongly increased
+NR0383,2026,18-25,South,Hyderabad,Dandiya,Day 1,7,Temple,₹3001-5000,4173,Yes,6-10 years,Somewhat increased
+NR0384,2026,18-25,East,Bhubaneswar,Cultural Events,Day 4,5,Temple,₹501-1500,1040,Yes,6-10 years,Somewhat increased
+NR0385,2024,36-45,East,Patna,Dandiya,Day 6,9,Temple,₹1501-3000,1686,No,2-5 years,Decreased
+NR0386,2024,18-25,East,Kolkata,Fasting/Upvas,Day 4,6,Community Ground,₹1501-3000,2199,Yes,More than 10 years,Somewhat increased
+NR0387,2026,36-45,West,Pune,Cultural Events,Day 9,9,Public Event Venue,₹501-1500,971,No,More than 10 years,Decreased
+NR0388,2024,36-45,West,Nashik,Garba,Day 5,7,Temple,₹0-500,292,Yes,More than 10 years,Somewhat increased
+NR0389,2026,26-35,East,Ranchi,Fasting/Upvas,Day 8,2,Temple,₹1501-3000,2340,Yes,2-5 years,Strongly increased
+NR0390,2026,Under 18,East,Ranchi,Garba,Day 9,7,Housing Society,₹3001-5000,3857,No,More than 10 years,Somewhat increased
+NR0391,2025,18-25,Central,Bhopal,Cultural Events,Day 5,4,Temple,₹501-1500,989,Yes,More than 10 years,Decreased
+NR0392,2026,26-35,North,Jaipur,Dandiya,Day 6,8,Housing Society,₹1501-3000,2526,Yes,2-5 years,No change
+NR0393,2023,46+,North,Delhi,Cultural Events,Day 1,1,Community Ground,₹501-1500,977,Yes,First time,Strongly increased
+NR0394,2025,26-35,East,Ranchi,Cultural Events,Day 7,3,Public Event Venue,₹1501-3000,2061,No,2-5 years,Somewhat increased
+NR0395,2026,18-25,West,Surat,Cultural Events,Day 4,9,Public Event Venue,₹501-1500,966,Yes,More than 10 years,Strongly increased
+NR0396,2025,26-35,Central,Indore,Devi Puja,Day 2,3,Housing Society,₹3001-5000,4451,Yes,More than 10 years,Strongly increased
+NR0397,2026,26-35,East,Bhubaneswar,Garba,Day 5,9,Public Event Venue,₹501-1500,1059,Yes,More than 10 years,Strongly increased
+NR0398,2023,36-45,North,Lucknow,Garba,Day 3,4,Community Ground,₹501-1500,1005,Yes,2-5 years,Strongly increased
+NR0399,2025,Under 18,East,Patna,Dandiya,Day 6,7,Temple,₹0-500,255,No,More than 10 years,No change
+NR0400,2025,36-45,East,Patna,Garba,Day 8,8,Housing Society,₹0-500,233,Yes,First time,Strongly increased
+NR0401,2026,26-35,West,Ahmedabad,Devi Puja,Day 7,6,Housing Society,₹1501-3000,2197,Yes,6-10 years,No change
+NR0402,2024,46+,Central,Raipur,Dandiya,Day 3,4,Temple,₹501-1500,920,Yes,More than 10 years,Strongly increased
+NR0403,2025,18-25,North,Lucknow,Fasting/Upvas,Day 8,3,Temple,₹3001-5000,3858,Yes,2-5 years,Strongly increased
+NR0404,2026,26-35,East,Bhubaneswar,Devi Puja,Day 2,0,Community Ground,₹0-500,290,No,More than 10 years,Strongly increased
+NR0405,2024,46+,West,Mumbai,Cultural Events,Day 9,4,Temple,₹501-1500,870,Yes,2-5 years,Strongly increased
+NR0406,2026,Under 18,Central,Raipur,Garba,Day 4,7,Community Ground,₹501-1500,917,No,More than 10 years,Strongly increased
+NR0407,2025,46+,North,Delhi,Cultural Events,Day 1,9,Home,₹0-500,212,Yes,6-10 years,Strongly increased
+NR0408,2026,26-35,West,Surat,Fasting/Upvas,Day 8,9,Community Ground,₹0-500,205,Yes,6-10 years,Somewhat increased
+NR0409,2026,Under 18,Central,Indore,Dandiya,Day 7,8,Community Ground,₹501-1500,977,No,2-5 years,Strongly increased
+NR0410,2024,18-25,West,Pune,Devi Puja,Day 5,8,Housing Society,₹1501-3000,2083,Yes,First time,Strongly increased
+NR0411,2025,26-35,West,Nashik,Devi Puja,Day 5,7,Housing Society,₹501-1500,1211,Yes,More than 10 years,Strongly increased
+NR0412,2026,Under 18,Central,Raipur,Garba,Day 7,4,Public Event Venue,₹1501-3000,2173,No,2-5 years,No change
+NR0413,2025,26-35,Central,Bhopal,Dandiya,Day 5,9,Housing Society,₹1501-3000,2598,Yes,More than 10 years,No change
+NR0414,2026,18-25,South,Hyderabad,Dandiya,Day 8,7,Temple,₹0-500,279,Yes,More than 10 years,Somewhat increased
+NR0415,2025,26-35,South,Bengaluru,Garba,Day 6,7,Public Event Venue,₹501-1500,974,Yes,2-5 years,Strongly increased
+NR0416,2024,Under 18,North,Delhi,Dandiya,Day 5,2,Housing Society,Above ₹5000,7519,Yes,2-5 years,Strongly increased
+NR0417,2025,36-45,West,Pune,Garba,Day 9,5,Community Ground,₹1501-3000,2322,Yes,More than 10 years,No change
+NR0418,2026,46+,West,Surat,Garba,Day 2,6,Housing Society,₹1501-3000,2658,Yes,More than 10 years,Strongly increased
+NR0419,2025,46+,South,Hyderabad,Garba,Day 1,9,Public Event Venue,₹501-1500,1167,Yes,More than 10 years,Strongly increased
+NR0420,2026,36-45,East,Bhubaneswar,Fasting/Upvas,Day 8,6,Temple,₹3001-5000,4199,No,6-10 years,Strongly increased
+NR0421,2026,18-25,East,Bhubaneswar,Dandiya,Day 3,5,Community Ground,₹3001-5000,4360,Yes,More than 10 years,Strongly increased
+NR0422,2025,36-45,East,Bhubaneswar,Fasting/Upvas,Day 7,9,Community Ground,₹1501-3000,2418,Yes,2-5 years,Strongly increased
+NR0423,2023,Under 18,West,Mumbai,Dandiya,Day 8,2,Community Ground,Above ₹5000,5176,Yes,More than 10 years,Somewhat increased
+NR0424,2026,Under 18,North,Delhi,Garba,Day 6,5,Temple,₹0-500,251,Yes,More than 10 years,Strongly increased
+NR0425,2025,18-25,West,Pune,Dandiya,Day 9,1,Housing Society,₹0-500,282,Yes,2-5 years,Somewhat increased
+NR0426,2026,26-35,South,Chennai,Dandiya,Day 7,8,Community Ground,₹3001-5000,4732,No,2-5 years,Strongly increased
+NR0427,2025,36-45,North,Delhi,Garba,Day 5,9,Public Event Venue,₹3001-5000,3654,Yes,2-5 years,Strongly increased
+NR0428,2025,26-35,Central,Bhopal,Devi Puja,Day 8,4,Home,₹0-500,265,No,2-5 years,No change
+NR0429,2026,18-25,West,Nashik,Garba,Day 2,9,Housing Society,₹501-1500,1018,No,More than 10 years,Strongly increased
+NR0430,2025,18-25,West,Surat,Devi Puja,Day 7,4,Public Event Venue,₹0-500,246,Yes,6-10 years,No change
+NR0431,2025,46+,West,Pune,Devi Puja,Day 4,9,Community Ground,₹501-1500,1042,Yes,2-5 years,Somewhat increased
+NR0432,2025,18-25,East,Bhubaneswar,Garba,Day 9,8,Temple,₹3001-5000,4104,Yes,2-5 years,Strongly increased
+NR0433,2025,18-25,South,Bengaluru,Garba,Day 1,8,Housing Society,₹1501-3000,2396,Yes,More than 10 years,No change
+NR0434,2025,18-25,West,Ahmedabad,Devi Puja,Day 7,0,Public Event Venue,₹501-1500,1173,No,More than 10 years,Strongly increased
+NR0435,2026,36-45,West,Ahmedabad,Dandiya,Day 6,9,Home,₹501-1500,1094,No,6-10 years,No change
+NR0436,2025,26-35,South,Bengaluru,Garba,Day 8,8,Community Ground,₹0-500,259,Yes,2-5 years,Strongly increased
+NR0437,2025,18-25,West,Ahmedabad,Fasting/Upvas,Day 5,4,Public Event Venue,₹501-1500,1223,Yes,More than 10 years,No change
+NR0438,2026,Under 18,East,Patna,Garba,Day 1,9,Community Ground,₹1501-3000,2549,No,More than 10 years,Strongly increased
+NR0439,2024,26-35,South,Hyderabad,Devi Puja,Day 1,4,Public Event Venue,Above ₹5000,5933,No,2-5 years,Somewhat increased
+NR0440,2024,26-35,West,Vadodara,Fasting/Upvas,Day 9,9,Public Event Venue,₹3001-5000,3415,Yes,First time,Somewhat increased
+NR0441,2026,18-25,West,Nashik,Garba,Day 6,2,Community Ground,₹0-500,220,Yes,First time,No change
+NR0442,2026,46+,Central,Indore,Garba,Day 5,8,Home,₹3001-5000,4447,Yes,2-5 years,No change
+NR0443,2025,18-25,North,Lucknow,Garba,Day 1,6,Community Ground,₹3001-5000,3697,No,6-10 years,No change
+NR0444,2026,18-25,North,Lucknow,Garba,Day 6,1,Temple,₹3001-5000,3516,Yes,More than 10 years,No change
+NR0445,2023,46+,East,Patna,Garba,Day 6,3,Housing Society,₹501-1500,909,Yes,6-10 years,Strongly increased
+NR0446,2026,18-25,Central,Nagpur,Devi Puja,Day 3,0,Housing Society,₹501-1500,917,Yes,More than 10 years,Strongly increased
+NR0447,2025,26-35,Central,Nagpur,Garba,Day 8,6,Public Event Venue,₹501-1500,1102,Yes,6-10 years,Strongly increased
+NR0448,2025,18-25,East,Bhubaneswar,Dandiya,Day 1,4,Housing Society,₹0-500,245,Yes,More than 10 years,Strongly increased
+NR0449,2025,18-25,North,Jaipur,Fasting/Upvas,Day 1,7,Temple,₹501-1500,835,No,More than 10 years,Strongly increased
+NR0450,2023,46+,West,Surat,Cultural Events,Day 6,4,Public Event Venue,₹501-1500,1003,Yes,2-5 years,Somewhat increased
+NR0451,2024,18-25,East,Patna,Devi Puja,Day 1,4,Public Event Venue,₹1501-3000,2310,Yes,6-10 years,Strongly increased
+NR0452,2026,46+,South,Hyderabad,Garba,Day 6,8,Community Ground,₹3001-5000,3769,Yes,More than 10 years,Somewhat increased
+NR0453,2025,18-25,North,Lucknow,Devi Puja,Day 1,1,Public Event Venue,₹501-1500,1138,Yes,First time,Strongly increased
+NR0454,2025,18-25,Central,Bhopal,Dandiya,Day 6,9,Community Ground,₹0-500,237,Yes,6-10 years,Strongly increased
+NR0455,2023,Under 18,West,Mumbai,Dandiya,Day 3,9,Public Event Venue,Above ₹5000,6798,Yes,6-10 years,Somewhat increased
+NR0456,2023,26-35,North,Chandigarh,Garba,Day 8,7,Community Ground,Above ₹5000,6429,Yes,More than 10 years,Somewhat increased
+NR0457,2026,18-25,West,Pune,Cultural Events,Day 6,7,Community Ground,₹3001-5000,4444,Yes,6-10 years,Somewhat increased
+NR0458,2025,36-45,North,Delhi,Dandiya,Day 1,9,Temple,Above ₹5000,5209,Yes,More than 10 years,Somewhat increased
+NR0459,2025,26-35,West,Mumbai,Garba,Day 5,3,Housing Society,₹1501-3000,2276,Yes,6-10 years,Strongly increased
+NR0460,2024,46+,West,Nashik,Dandiya,Day 8,1,Temple,Above ₹5000,5961,No,More than 10 years,Somewhat increased
+NR0461,2026,18-25,West,Surat,Dandiya,Day 3,3,Community Ground,₹0-500,207,No,6-10 years,Strongly increased
+NR0462,2024,36-45,South,Kochi,Cultural Events,Day 6,8,Housing Society,₹501-1500,1132,Yes,More than 10 years,Strongly increased
+NR0463,2024,36-45,East,Kolkata,Devi Puja,Day 5,0,Public Event Venue,₹501-1500,901,Yes,6-10 years,Strongly increased
+NR0464,2025,36-45,South,Chennai,Devi Puja,Day 6,7,Temple,₹501-1500,926,No,More than 10 years,Strongly increased
+NR0465,2025,36-45,Central,Indore,Garba,Day 1,9,Community Ground,₹0-500,219,Yes,More than 10 years,Strongly increased
+NR0466,2024,36-45,North,Delhi,Dandiya,Day 7,9,Temple,₹1501-3000,2439,No,6-10 years,No change
+NR0467,2026,26-35,West,Pune,Dandiya,Day 9,6,Community Ground,₹3001-5000,3267,No,2-5 years,No change
+NR0468,2026,18-25,East,Kolkata,Garba,Day 2,1,Public Event Venue,₹1501-3000,2416,Yes,2-5 years,Strongly increased
+NR0469,2026,Under 18,West,Surat,Garba,Day 5,9,Public Event Venue,₹0-500,281,Yes,First time,Strongly increased
+NR0470,2025,46+,Central,Nagpur,Devi Puja,Day 4,7,Housing Society,₹3001-5000,4257,No,More than 10 years,Strongly increased
+NR0471,2023,26-35,West,Ahmedabad,Garba,Day 6,2,Temple,₹1501-3000,2442,Yes,2-5 years,Strongly increased
+NR0472,2024,36-45,Central,Bhopal,Dandiya,Day 6,1,Home,₹501-1500,1091,Yes,2-5 years,No change
+NR0473,2026,26-35,West,Mumbai,Garba,Day 2,9,Housing Society,₹1501-3000,1993,Yes,More than 10 years,Strongly increased
+NR0474,2025,Under 18,Central,Bhopal,Garba,Day 2,7,Public Event Venue,₹501-1500,1172,Yes,2-5 years,Somewhat increased
+NR0475,2026,18-25,North,Jaipur,Garba,Day 4,9,Housing Society,₹501-1500,944,Yes,6-10 years,Strongly increased
+NR0476,2023,26-35,Central,Bhopal,Fasting/Upvas,Day 1,9,Home,Above ₹5000,5952,No,2-5 years,Decreased
+NR0477,2025,18-25,West,Pune,Cultural Events,Day 9,7,Housing Society,₹501-1500,960,No,More than 10 years,Strongly increased
+NR0478,2023,18-25,South,Hyderabad,Fasting/Upvas,Day 7,6,Temple,₹501-1500,1058,Yes,More than 10 years,Somewhat increased
+NR0479,2025,26-35,Central,Bhopal,Dandiya,Day 7,5,Public Event Venue,₹3001-5000,3741,Yes,More than 10 years,Strongly increased
+NR0480,2026,Under 18,North,Delhi,Garba,Day 3,4,Housing Society,₹1501-3000,2268,Yes,6-10 years,Somewhat increased
+NR0481,2026,26-35,South,Chennai,Dandiya,Day 3,5,Housing Society,₹0-500,212,Yes,More than 10 years,Strongly increased
+NR0482,2025,18-25,South,Chennai,Dandiya,Day 1,8,Community Ground,₹0-500,284,Yes,2-5 years,Strongly increased
+NR0483,2025,36-45,North,Delhi,Cultural Events,Day 3,7,Housing Society,₹0-500,270,No,First time,No change
+NR0484,2026,18-25,South,Hyderabad,Garba,Day 3,9,Housing Society,₹1501-3000,2171,No,First time,No change
+NR0485,2026,18-25,South,Hyderabad,Dandiya,Day 4,5,Community Ground,₹501-1500,943,Yes,6-10 years,No change
+NR0486,2023,Under 18,Central,Raipur,Garba,Day 4,7,Community Ground,₹0-500,269,Yes,6-10 years,Somewhat increased
+NR0487,2025,Under 18,West,Pune,Garba,Day 3,7,Housing Society,Above ₹5000,5490,Yes,6-10 years,No change
+NR0488,2024,18-25,West,Mumbai,Devi Puja,Day 8,7,Home,₹1501-3000,2283,Yes,First time,Strongly increased
+NR0489,2025,26-35,Central,Raipur,Dandiya,Day 8,8,Housing Society,₹501-1500,1139,Yes,6-10 years,Strongly increased
+NR0490,2025,26-35,Central,Nagpur,Dandiya,Day 1,3,Community Ground,₹1501-3000,2030,Yes,More than 10 years,Strongly increased
+NR0491,2025,18-25,North,Delhi,Dandiya,Day 7,6,Housing Society,₹1501-3000,2349,No,6-10 years,Somewhat increased
+NR0492,2025,26-35,South,Kochi,Dandiya,Day 2,2,Community Ground,₹0-500,259,Yes,More than 10 years,Strongly increased
+NR0493,2024,36-45,West,Pune,Devi Puja,Day 1,5,Temple,₹501-1500,988,Yes,2-5 years,Strongly increased
+NR0494,2025,36-45,West,Pune,Cultural Events,Day 3,6,Community Ground,₹3001-5000,3758,No,More than 10 years,Somewhat increased
+NR0495,2026,Under 18,North,Chandigarh,Fasting/Upvas,Day 4,7,Community Ground,₹501-1500,1145,Yes,6-10 years,No change
+NR0496,2026,26-35,West,Mumbai,Devi Puja,Day 6,9,Community Ground,₹1501-3000,2088,Yes,2-5 years,Strongly increased
+NR0497,2025,Under 18,South,Kochi,Garba,Day 5,7,Temple,₹501-1500,782,Yes,2-5 years,Strongly increased
+NR0498,2026,18-25,West,Pune,Devi Puja,Day 4,8,Community Ground,₹0-500,269,Yes,More than 10 years,Strongly increased
+NR0499,2026,46+,Central,Bhopal,Dandiya,Day 8,6,Temple,₹0-500,213,No,More than 10 years,Strongly increased
+NR0500,2024,18-25,Central,Nagpur,Garba,Day 4,7,Housing Society,₹501-1500,1083,Yes,6-10 years,Strongly increased
